@@ -1,0 +1,126 @@
+
+            *{
+
+                margin: 0;
+                
+                padding: 0;
+                
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+
+            #topbar {
+
+                width: 100%;
+                
+                height: 40px;
+                
+                background-color: #EEEEEE;
+                
+                position: fixed;
+                
+                top: 0;
+
+            }
+
+            #logo {
+
+                position: relative;
+                
+                top: 5px;
+                
+                left: 43%;
+                
+            }
+
+            #html {
+
+                background-color: hsla(215, 79%, 80%, 0.527);
+                
+                height: 470px;
+                
+                width: 30%;
+
+            }
+
+            #css {
+
+                background-color: hsla(215, 79%, 80%, 0.527);
+                
+                height: 470px;
+                
+                width: 30%;
+                
+
+            }
+
+            #js {
+
+                background-color: hsla(215, 79%, 80%, 0.527);
+                
+                height: 470px;
+                
+                width: 30%;
+
+            }
+
+            h3 {
+
+                width: 28%;
+                
+                text-align: center;
+                
+                padding: 10px;
+                
+                margin: 1px;
+
+                border: 1px solid blue;
+
+            }
+
+            h3:hover {
+
+                cursor: pointer;
+
+            }
+
+            #output {
+
+                width: 69.9%;
+                
+                height: 800px;
+                
+                height: 100%;
+                
+                float: right;
+                
+                margin-top: 3%;
+                
+                border: 1px solid gainsboro;
+
+            }
+            #accordion {
+
+                position: fixed;
+                
+                top: 40px;
+                
+                width: 100%;
+
+            }
+
+            body {
+
+                width: 100%;
+                
+                overflow-x: hidden;
+
+            }
+
+            textarea {
+
+                resize: none;
+                font-size: 15px;
+                padding: 5px;
+
+            }
